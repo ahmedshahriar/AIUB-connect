@@ -9,7 +9,7 @@
 </p>
 
 <h3>Project Details<h3/>
-    A Social networking site for AIUB . No registeration needed. Login using portal ID and Password. It's still in beta version. Many more new features to come.
+    The purpose of the project is to serve as a social media platform for AIUB students. It is a website where a user can login via their AIUB provided user-id and password for AIUB Portal. After logging in, a social media account is created using their general info collected from AIUB portal via web scrapping. Besides managing posts, comments and photos user can do text messaging and video chat. It's still in beta version. Many more new features to come
     </br>
     Project Partner : <a href="https://github.com/ahmedshahriar"> Ahmed Shahriar Sakib <a/>
     <h2>Screenshots</h2>
